@@ -1,4 +1,4 @@
-A fullscreen textarea is a test which supports characters. [https://xchanroldan101.github.io/Full-Screen-Textarea/](https://xchanroldan101.github.io/Full-Screen-Textarea/)
+A fullscreen textarea is a test which encoding supports characters. [https://xchanroldan101.github.io/Full-Screen-Textarea/](https://xchanroldan101.github.io/Full-Screen-Textarea/)
 
 Paste this to the address bar
 ```text
